@@ -1,4 +1,4 @@
-A collection of handy Flutter packages for faster app development.
+A collection of handy Flutter plugins for faster app development.
 
 
 ## Installation and Usage
