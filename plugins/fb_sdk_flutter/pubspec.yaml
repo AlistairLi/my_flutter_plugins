@@ -1,6 +1,6 @@
 name: fb_sdk_flutter
 description: A Flutter plugin for Facebook SDK integration with dynamic initialization and event tracking capabilities.
-version: 1.0.0
+version: 1.0.2
 repository: https://github.com/AlistairLi/my_flutter_plugins/tree/main/packages/fb_sdk_flutter
 
 environment:

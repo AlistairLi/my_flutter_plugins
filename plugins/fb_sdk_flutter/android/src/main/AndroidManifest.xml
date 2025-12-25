@@ -5,10 +5,5 @@
         <meta-data
             android:name="com.facebook.sdk.AutoInitEnabled"
             android:value="false" />
-
-        <!-- 禁用自动事件搜集 -->
-        <meta-data
-            android:name="com.facebook.sdk.AutoLogAppEventsEnabled"
-            android:value="false" />
     </application>
 </manifest>

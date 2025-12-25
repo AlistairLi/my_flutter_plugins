@@ -56,7 +56,6 @@ class FacebookPlatformPlugin : FlutterPlugin, MethodCallHandler {
                 val clientToken = arguments["clientToken"] as String
                 FacebookSdk.setApplicationId(applicationId)
                 FacebookSdk.setClientToken(clientToken)
-                FacebookSdk.setAutoLogAppEventsEnabled(true)
                 applicationContext?.let {
                     FacebookSdk.sdkInitialize(it) {
                         result.success("sdkInit success")
